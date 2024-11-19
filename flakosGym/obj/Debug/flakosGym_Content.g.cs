@@ -9,6 +9,5 @@
 //------------------------------------------------------------------------------
 
 [assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/home.png")]
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("viewmodels/viewmodelbase.cd")]
 
 

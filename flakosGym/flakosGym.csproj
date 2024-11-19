@@ -148,7 +148,6 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="Images\home.png" />
-    <Content Include="ViewModels\ViewModelBase.cd" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
